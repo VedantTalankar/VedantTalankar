@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedantTalankar
 - 👀 I’m interested in game devlopment 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C#
 
 <!---
 VedantTalankar/VedantTalankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
